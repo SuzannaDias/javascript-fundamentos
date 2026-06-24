@@ -15,6 +15,7 @@ Repositório criado para registrar minha evolução nos estudos de JavaScript du
 - indexOf()
 - length
 - Template Strings
+- Introdução a objetos
 
 ## 📂 Exercícios disponíveis
 
